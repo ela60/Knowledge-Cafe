@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "cover": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGZ1dHVyZSUyMG9mJTIwQUl8ZW58MHx8fHwxNjcwNzE4MTc2&ixlib=rb-1.2.1&q=80&w=1080",
+      "title": "The Future of AI: Beyond 2025",
+      "author": "Alex Turner",
+      "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGF1dGhvcnh8ZW58MHx8fHwxNjcwNzE5MTU3&ixlib=rb-1.2.1&q=80&w=1080",
+      "img": "https://images.unsplash.com/photo-1581092580373-031c041e0968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE3fHxhaXxlbnwwfHx8fDE2NzA3MTgyMzA&ixlib=rb-1.2.1&q=80&w=1080",
+      "posted_date": "2024-09-10",
+      "reading_time": "8 min"
+    },
+    {
+      "id": 102,
+      "cover": "https://images.unsplash.com/photo-1559028012-481c18b4a2bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fFJlYWN0JTIwV2Vic2l0ZXxlbnwwfHx8fDE2NzA3MTgzMzY&ixlib=rb-1.2.1&q=80&w=1080",
+      "title": "Mastering Web Development with React",
+      "author": "Jordan Michaels",
+      "author_img": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIzfHxhdXRob3J8ZW58MHx8fHwxNjcwNzE5MjUy&ixlib=rb-1.2.1&q=80&w=1080",
+      "img": "https://images.unsplash.com/photo-1517430816045-df4b7de7f708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE2NzA3MTgzODY&ixlib=rb-1.2.1&q=80&w=1080",
+      "posted_date": "2024-08-22",
+      "reading_time": "12 min"
+    },
+    {
+      "id": 103,
+      "cover": "https://images.unsplash.com/photo-1600585154555-a8e9c6f00b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fHF1YW50dW0lMjBjb21wdXRpbmd8ZW58MHx8fHwxNjcwNzE4NDA5&ixlib=rb-1.2.1&q=80&w=1080",
+      "title": "Exploring Quantum Computing",
+      "author": "Samantha Rivera",
+      "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI2fHxhdXRob3J8ZW58MHx8fHwxNjcwNzE5Mjgy&ixlib=rb-1.2.1&q=80&w=1080",
+      "img": "https://images.unsplash.com/photo-1532527361847-25543f9eac14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDczfHxjb21wdXRlcnxlbnwwfHx8fDE2NzA3MTg0NTg&ixlib=rb-1.2.1&q=80&w=1080",
+      "posted_date": "2024-07-15",
+      "reading_time": "10 min"
+    },
+    {
+      "id": 104,
+      "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHx8fDE2NzA3MTg1MzI&ixlib=rb-1.2.1&q=80&w=1080",
+      "title": "A Beginner’s Guide to Machine Learning",
+      "author": "Ethan Clark",
+      "author_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDM1fHxhdXRob3J8ZW58MHx8fHwxNjcwNzE5Mjkz&ixlib=rb-1.2.1&q=80&w=1080",
+      "img": "https://images.unsplash.com/photo-1538490199611-82f38f7b4e13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHx8fDE2NzA3MTg1NjA&ixlib=rb-1.2.1&q=80&w=1080",
+      "posted_date": "2024-06-30",
+      "reading_time": "15 min"
+    },
+    {
+      "id": 105,
+      "cover": "https://images.unsplash.com/photo-1542744094-24638eff58bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJsb2NrY2hhaW58ZW58MHx8fHwxNjcwNzE4NjE1&ixlib=rb-1.2.1&q=80&w=1080",
+      "title": "The Rise of Blockchain in Finance",
+      "author": "Natalie Benson",
+      "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDMwfHxhdXRob3J8ZW58MHx8fHwxNjcwNzE5MzEx&ixlib=rb-1.2.1&q=80&w=1080",
+      "img": "https://images.unsplash.com/photo-1526379095098-aa3ea285a7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGJsb2NrY2hhaW4lMjB0ZWNobm9sb2d5fGVufDB8fHx8MTY3MDcxODY0OQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "posted_date": "2024-10-01",
+      "reading_time": "7 min"
+    }
+  ]
+  
