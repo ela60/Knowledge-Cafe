@@ -1,8 +1,15 @@
-# React + Vite
+# This is Knowledge Cafe Website
+- View the Site(https://cosmic-vacherin-58edab.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- A Knowledge Café website is typically designed to foster the sharing of information, ideas, and experiences among users in an informal, open environment, often centered around specific topics of interest. The term "Knowledge Café" comes from the concept of real-life gatherings where participants engage in meaningful conversations to share knowledge. 
 
-Currently, two official plugins are available:
+# The Technology are used here:
+1. Tailwind
+3. Html
+2. Javascript 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# The library are used here
+* React(which is javascript library)
+
+* I faced some problems when i build Bookmark section.But i learnt there new things. 
+
